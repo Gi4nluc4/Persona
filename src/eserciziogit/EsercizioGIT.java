@@ -27,8 +27,8 @@ public class UsaPersona  {
    
     public static void main(String[] args) {
         // TODO code application logic here
-        Persona persona1 = new Persona("Roberto","Marelli","nulla","insegnante");
-        Persona persona2 = new Persona("Marco","Redaelli");
+        Persona persona1 = new Persona("Ciro","Rossi","nulla","Insegnante");
+        Persona persona2 = new Persona("Mario","Verdi");
         
         System.out.println(persona1.getInfoPersona());
        
